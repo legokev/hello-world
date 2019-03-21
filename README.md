@@ -5,7 +5,7 @@ figuring out the branching mechanism etc..
 #Still figuring out the process
 
 ## Content of the Documents
-###**About Me**
+###**About Me** \n
 **Name**
 *Kevin*
 **School**
