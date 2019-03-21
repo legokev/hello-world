@@ -22,7 +22,7 @@ figuring out the branching mechanism etc..
 
 **Origins**
 
-*Atlantis
+*Atlantis*
 
 **In the Words of Timon and Pumba**
 > Hakunah Matata 1999.
